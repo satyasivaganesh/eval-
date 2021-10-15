@@ -1,0 +1,2 @@
+eval(input())
+# no need of print function to print eval function it itself prints
